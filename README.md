@@ -4,6 +4,7 @@ Project Description
 The Academic Portal System is a simple web-based application that allows students to view their academic information, personal profile, academic records, enrolled subjects, and grades.
 
 Features
+- Student Register 
 - Student Login
 - Student Dashboard
 - Student Profile
@@ -21,12 +22,6 @@ Technologies Used
 - JavaScript
 - LocalStorage
 
-Demo Login Account
-
-Student ID: 2024-001
-
-Password: 12345
-
 Installation and Usage
 
 1. Download or clone this repository.
@@ -42,6 +37,7 @@ Academic-Portal-System/
 - index.html
 - .gitignore
 - README.md
+- PROMPT_LOG.md
 
 Purpose
 This project is created for educational purposes to demonstrate a simple Academic Portal System.
